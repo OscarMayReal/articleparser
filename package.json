@@ -11,5 +11,6 @@
   "dependencies": {
     "@extractus/article-extractor": "^8.0.17",
     "express": "^4.21.2"
-  }
+  },
+  "type": "module"
 }
